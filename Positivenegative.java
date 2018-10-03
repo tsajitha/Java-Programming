@@ -7,11 +7,15 @@ public class Positivenegative
         {
             System.out.println(number+" is a positive number");
         }
-        else 
+        else if(num<0)
         {
             System.out.println(number+" is a negative number");
         }
-       
+       else
+       {
+           System.out.println("It is Zero")
+       }
+           
         }
         }
 }
