@@ -6,10 +6,10 @@ import java.util.*;
         int pow = 0;
         int power = 0;
 
-        System.out.print("Enter number: ");
+        System.out.print(" ");
         num = sc.nextInt();
 
-        System.out.print("Enter power: ");
+        System.out.print(" ");
         pow = sc.nextInt();
 
         System.out.print(power(num,pow));
