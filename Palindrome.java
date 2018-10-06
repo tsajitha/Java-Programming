@@ -14,8 +14,8 @@ rev = rev * 10 + rmd;
 num = num / 10; 
 } 
 if(rev == n) 
-System.out.println("yes "); 
+System.out.println(" yes "); 
 else 
-System.out.println("no "); 
+System.out.println(" no ");
   }
 }
