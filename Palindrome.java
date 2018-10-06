@@ -11,7 +11,7 @@ while(num > 0)
 { 
 rmd = num % 10; 
 rev = rev * 10 + rmd; 
-num = num / 10; 
+  num = num / 10; 
 } 
 if(rev == n) 
 System.out.println(" yes "); 
